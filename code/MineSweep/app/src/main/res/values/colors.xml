@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- 方格相关颜色 -->
+    <color name="grid_bg_default">#c1c1c1</color>
+    <color name="grid_bg_opened">#a0a0a0</color>
+    <color name="grid_line">#808080</color>
+
+    <!-- 功能区颜色 -->
+    <color name="btn_bg_selected">#0000ff</color>
+    <color name="btn_bg_normal">#bbbbbb</color>
+
+</resources>

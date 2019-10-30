@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">扫雷</string>
+
+    <string name="level_simple">简单：9 × 9</string>
+    <string name="level_medium">中等：16 × 16</string>
+    <string name="level_advance">专家：30 × 16</string>
+
+    <string name="simple">简单</string>
+    <string name="medium">中等</string>
+    <string name="advance">专家</string>
+
+    <string name="open">翻开</string>
+    <string name="insert_flag">插旗</string>
+
+</resources>
